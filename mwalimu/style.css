@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f2f2f2;
+  text-align: center;
+}
+
+header {
+  background: #2c3e80;
+  color: white;
+  padding: 50px;
+}
+
+header button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background: #ffcc00;
+  cursor: pointer;
+}
+
+.box {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+footer {
+  background: #222;
+  color: white;
+  padding: 15px;
+}
